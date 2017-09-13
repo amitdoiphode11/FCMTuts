@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "968856864236",
+    "firebase_url": "https://my-project-1495338811499.firebaseio.com",
+    "project_id": "my-project-1495338811499",
+    "storage_bucket": "my-project-1495338811499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968856864236:android:623027d055c0137d",
+        "android_client_info": {
+          "package_name": "com.atreyainnovations.naditarangini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968856864236-jv16rqsgrrcjvjvkqmlt0fek1b2896kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atreyainnovations.naditarangini",
+            "certificate_hash": "c418a965d661a268a2bf7b41cb6647c9efcccbb8"
+          }
+        },
+        {
+          "client_id": "968856864236-7mmll5vtpecrb2jek6l0vorlu4homalg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOF1UvI8k6mm1IvsIGqQ2f5HQvM4x4Xyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968856864236-7mmll5vtpecrb2jek6l0vorlu4homalg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968856864236:android:5984488875312738",
+        "android_client_info": {
+          "package_name": "com.atreyainnovations.patientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968856864236-hfiliiph0ur646m843ksdfh5u8khn53j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atreyainnovations.patientapp",
+            "certificate_hash": "c418a965d661a268a2bf7b41cb6647c9efcccbb8"
+          }
+        },
+        {
+          "client_id": "968856864236-7mmll5vtpecrb2jek6l0vorlu4homalg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOF1UvI8k6mm1IvsIGqQ2f5HQvM4x4Xyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968856864236-7mmll5vtpecrb2jek6l0vorlu4homalg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968856864236:android:346e8d5cce8d2194",
+        "android_client_info": {
+          "package_name": "com.eaglesofttech.fcmtuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968856864236-ul8tjcniiebe4f9na6f1srujqnen5bvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eaglesofttech.fcmtuts",
+            "certificate_hash": "c418a965d661a268a2bf7b41cb6647c9efcccbb8"
+          }
+        },
+        {
+          "client_id": "968856864236-7mmll5vtpecrb2jek6l0vorlu4homalg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOF1UvI8k6mm1IvsIGqQ2f5HQvM4x4Xyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968856864236-7mmll5vtpecrb2jek6l0vorlu4homalg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
